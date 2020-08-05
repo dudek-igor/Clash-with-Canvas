@@ -1,9 +1,9 @@
-## Simple and (I think) aesthetic drawing on canvas
+# Simple and (I think) aesthetic drawing on canvas
 
-# Clone rep 
+## Clone rep 
 
-# Install - `npm install`
+## Install - `npm install`
 
-# Start - `npm start`
+## Start - `npm start`
 
-# Enjoy
+## Enjoy
