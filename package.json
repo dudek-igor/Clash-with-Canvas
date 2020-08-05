@@ -1,8 +1,8 @@
 {
-  "name": "basic_webpack",
+  "name": "Clash-with-Canvas",
   "version": "1.0.0",
   "author": "Igor Dudek",
-  "description": "my_basic_webpack",
+  "description": "Drawing on the canvas",
   "main": "index.js",
   "browserslist": [
     "> 0.3%",
