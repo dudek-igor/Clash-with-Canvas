@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/dudek-igor/Basic-Webpack"
+    "url": "https://github.com/dudek-igor/Clash-with-Canvas.git"
   },
   "scripts": {
     "prod": "webpack --config ./config/webpack.config.prod.js",
