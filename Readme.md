@@ -1,9 +1,3 @@
-# Simple and (I think) aesthetic drawing on canvas
+## Drawing on canvas
 
-## Clone rep 
-
-## Install - `npm install`
-
-## Start - `npm start`
-
-## Enjoy
+[Netlify link] (https://relaxed-bardeen-2b4971.netlify.app)
