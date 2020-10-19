@@ -1,3 +1,1 @@
-## Drawing on canvas
-
-[Netlify link](https://relaxed-bardeen-2b4971.netlify.app)
+> Link:[Drawing Stars on a Canvas](https://dudek-igor.github.io/JS__Draving_Stars_on_a_Canvas/)
